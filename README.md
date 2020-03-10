@@ -2,7 +2,7 @@
 
 Using a feed forward neural network to predict whether or not a breast tumor is malignant or benign based on 9 variables. 
 
-Result: 96% overall accuracy, with 3% false negatives and 1% false positives
+Result: 96% overall test accuracy, with 3% false negatives and 1% false positives
 
 Data Source: Wisconsin Breast Cancer Database<br>
 The Wisconsin Breast Cancer Database was created through  the clinical work of Dr.  William H. Wolberg at the  Univer-sity  of  Wisconsin  Hospitals  in  Madison. <br>
