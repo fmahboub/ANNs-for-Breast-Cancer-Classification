@@ -16,4 +16,5 @@ The following eleven attributes2 are included in the database:<br>
 7.Bare Nuclei (1 - 10)<br>
 8.Bland Chromatin (1 - 10)<br>
 9.Normal Nucleoli (1 - 10)<br>
-10.Mitoses (1 - 10)11.Class (benign/malignant)
+10.Mitoses (1 - 10)<br>
+11.Class (benign/malignant)
