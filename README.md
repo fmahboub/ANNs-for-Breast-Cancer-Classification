@@ -1,6 +1,6 @@
 # Breast-Tumor-Classification-ANN
 
-Use an feed forward neural network to predict whether or not a breast tumor is malignant or benign based on 9 variables. 
+Using a feed forward neural network to predict whether or not a breast tumor is malignant or benign based on 9 variables. 
 
 Result: 96% overall accuracy, with 3% false negatives and 1% false positives
 
